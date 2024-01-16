@@ -1,0 +1,39 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+  <meta charset="UTF-8" />
+  <base href="/dice/" />
+  <link rel="icon" type="image/svg+xml" href="src/images/favicon.svg" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Flush</title>
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin="">
+  <link rel="stylesheet" type="text/css" charset="UTF-8"
+    href="https://cdnjs.cloudflare.com/ajax/libs/slick-carousel/1.6.0/slick.min.css" />
+  <link rel="stylesheet" type="text/css"
+    href="https://cdnjs.cloudflare.com/ajax/libs/slick-carousel/1.6.0/slick-theme.min.css" />
+  <script>
+    window.global = window;
+
+  </script>
+  <script type="module">
+    import process from "process";
+      import { Buffer } from "buffer";
+      import EventEmitter from "events";
+
+      window.Buffer = Buffer;
+      window.process = process;
+      window.EventEmitter = EventEmitter;
+    </script>
+</head>
+
+<body>
+  <div id="root"></div>
+  <script>
+    window.global = window;
+
+  </script>
+  <script type="module" src="/src/index.tsx"></script>
+</body>
+
+</html>
