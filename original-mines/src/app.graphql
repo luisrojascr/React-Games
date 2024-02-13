@@ -1,0 +1,128 @@
+fragment UserSeedPair on CurrentUser {
+  currentClientSeed {
+    _id
+    seed
+  }
+  currentServerSeed {
+    _id
+    nonce
+    seedHash
+    nextSeedHash
+  }
+}
+query CurrentUser {
+  user {
+    ...UserSeedPair
+  }
+}
+
+query initialRequest {
+  user {
+    _id
+    username
+    email
+    createdAt
+    totpEnabled
+    isSgUser
+    bonusActive
+    ...UserSeedPair
+    wallets {
+      _id
+      type
+      available
+      vault {
+        available
+        type
+      }
+    }
+    depositAddresses {
+      _id
+      type
+      address      
+    }
+    devices {
+      _id
+      userId
+      lastLogin
+      platform {
+        icon
+        family
+      }
+      browser {
+        name
+      }
+      device {
+        name
+      }
+      geolocation {
+        ip
+        region_name
+      }
+    }
+    settings {
+      visibility {
+        hideBets
+        hideRaces
+        hideProfit
+        hideWagered
+      }
+      friends {
+        blockRequests
+        notifications
+      }
+      messaging {
+        friendsOnly
+        notifications
+      }
+    }
+  }
+}
+
+subscription onUserEvent {
+  userEvent {
+    userId
+    type
+    event {
+      ... on TerminateSessionEvent {
+        token
+      }
+      ... on BalanceChangeEvent {
+        type
+        available
+        vault {
+          available
+        }
+      }
+    }
+  }
+}
+
+subscription onNewAllBet {
+  allBets {
+    ...SlimBetParts
+  }
+}
+
+query MyWallets {
+  wallets {
+    _id
+    type
+    available
+    vault {
+      available
+      type
+    }
+  }
+}
+
+query depositAddress($currency: CurrencyEnum!) {
+  depositAddress(currency: $currency) {
+    _id
+    type
+    address
+  }
+}
+
+mutation heartbeat {
+  heartbeat
+}

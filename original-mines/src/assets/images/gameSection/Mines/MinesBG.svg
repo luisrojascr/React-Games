@@ -1,0 +1,35 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="219" height="257" viewBox="0 0 219 257">
+    <defs>
+        <path id="prefix__a" d="M4 0h211c2.21 0 4 1.79 4 4v249c0 2.21-1.79 4-4 4H4c-2.21 0-4-1.79-4-4V4c0-2.21 1.79-4 4-4z"/>
+        <path id="prefix__c" d="M0.64 0.207H228.64V268.207H0.64z"/>
+    </defs>
+    <g fill="none" fill-rule="evenodd">
+        <mask id="prefix__b" fill="#fff">
+            <use xlink:href="#prefix__a"/>
+        </mask>
+        <use fill="#F2F2F7" xlink:href="#prefix__a"/>
+        <g mask="url(#prefix__b)">
+            <g>
+                <g transform="translate(-5 -6)">
+                    <mask id="prefix__d" fill="#fff">
+                        <use xlink:href="#prefix__c"/>
+                    </mask>
+                    <use fill="#5856D6" fill-rule="nonzero" xlink:href="#prefix__c"/>
+                    <g fill-rule="nonzero" mask="url(#prefix__d)">
+                        <g transform="translate(-22.936 19.47)">
+                            <rect width="58.227" height="58.227" x="70.339" y="191.817" fill="#111A41" rx="6.106"/>
+                            <rect width="58.227" height="58.227" x="192.984" y="62.577" fill="#4341B3" rx="6.106"/>
+                            <rect width="58.227" height="58.227" x="131.455" y="62.577" fill="#222C56" rx="6.106"/>
+                            <rect width="58.227" height="58.227" x="131.455" y=".274" fill="#111A41" rx="6.106"/>
+                            <rect width="58.227" height="58.227" x="8.471" y="131.739" fill="#222C56" rx="6.106"/>
+                            <rect width="58.227" height="58.227" y="8.695" fill="#4341B3" rx="6.106"/>
+                        </g>
+                    </g>
+
+
+                </g>
+
+            </g>
+        </g>
+    </g>
+</svg>

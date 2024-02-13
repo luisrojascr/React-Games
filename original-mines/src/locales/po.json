@@ -1,0 +1,68 @@
+{
+  "auth": {
+    "welcome": "Bienvenido",
+    "playnow": "Jugar Ahora",
+    "forgotpassword": "Olvidó Contraseña",
+    "or": "O",
+    "back to login": "VOLVER AL INICIO DE SESIÓN",
+    "signup": {
+      "signup": "REGISTRARSE",
+      "terms": "Acepto la recopilación de información en cookies, estoy de acuerdo con la Política de Privacidad y con los Términos de uso, el juego no está prohibido por mis autoridades locales y tengo al menos 18 años.",
+      "selectlanguage": "SELECCIONAR IDIOMA",
+      "placeholder": {
+        "username": "Nombre de Usuario",
+        "email": "correo electrónico",
+        "password": "Contraseña",
+        "confirmpassword": "Confirmar Contraseña"
+      }
+    },
+    "login": {
+      "login": "INICIAR SESIÓN",
+      "placeholder": {
+        "email": "correo electrónico",
+        "password": "Contraseña"
+      }
+    },
+    "forgot": {
+      "passwordrecovery": "Senha Recuperação",
+      "subtitle": "Enviaremos um link para o seu e-mail",
+      "send": "ENVIAR",
+      "placeholder": {
+        "emailorusername": "Correo Electrónico o Nombre de Usuario"
+      }
+    }
+  },
+  "header": {
+    "wallet": "CARTERA",
+    "VIP": "VIP"
+  },
+  "footer": {
+    "support": "Suporte",
+    "provablyfair": "Provavelmente Justo",
+    "gambleaware": "Juego Responsable",
+    "aboutus": "Acerca de nosotros",
+    "home": "Inicio",
+    "AMLpolicy": "Política AML",
+    "privacypolicy": "Política de Privacidad",
+    "KYCpolicy": "Política KYC",
+    "responsiblegaming": "Jogo responsável",
+    "tos": "Términos de Servicio",
+    "language": "Líng",
+    "text": "Flush.com é uma marca registrada da King of Clubz B.V., uma empresa de responsabilidade limitada registrada em Curaçao com o número de registro da empresa 161495, com endereço registrado na Fransche Bloemweg 4 Curaçao ('Empresa'), licenciada em Curaçao sob a licença do Provedor de Serviços de Jogos N.V. licença nº 365/JAZ para a provisão de jogos online",
+    "copyright": "© 2021 Flush.com. Todos os direitos reservados."
+  },
+  "sidebar": {
+    "lobby": "Vestíbulo",
+    "populargames": "Juegos Populares",
+    "newgames": "Nuevos Juegos",
+    "flushoriginals": "Originales de Flush",
+    "livecasino": "Casino en Vivo",
+    "featurebuyin": "Función de Compra",
+    "gameshows": "Concursos de TV",
+    "slots": "СЛОТЫ",
+    "providers": "Proveedor",
+    "promotions": "Promociones",
+    "livesupport": "Soporte en Vivo",
+    "buycrypto": "Comprar Cripto"
+  }
+}

@@ -1,0 +1,68 @@
+{
+  "auth": {
+    "welcome": "いらっしゃいませ",
+    "playnow": "今すぐプレイ",
+    "forgotpassword": "パスワードをお忘れの方",
+    "or": "もしくは",
+    "back to login": "ログインに戻る",
+    "signup": {
+      "signup": "サインアップ",
+      "terms": "クッキーでの情報収集に同意し、プライバシーポリシーと利用規約に同意します。ギャンブルは地元自治体で禁止されておらず、私は18歳以上です。",
+      "selectlanguage": "Select Language",
+      "placeholder": {
+        "username": "ユーザー名",
+        "email": "電子メール",
+        "password": "パスワード",
+        "confirmpassword": "パスワードの確認:."
+      }
+    },
+    "login": {
+      "login": "ログインする",
+      "placeholder": {
+        "email": "Email",
+        "password": "パスワード"
+      }
+    },
+    "forgot": {
+      "passwordrecovery": "Password Recovery",
+      "subtitle": "あなたのメールへのリンクを送信します",
+      "send": "送信",
+      "placeholder": {
+        "emailorusername": "電子メールまたはユーザー名"
+      }
+    }
+  },
+  "header": {
+    "wallet": "ポートフォリオ",
+    "VIP": "VIP"
+  },
+  "footer": {
+    "support": "support",
+    "provablyfair": "公平性",
+    "gambleaware": "ギャンブル依存症",
+    "aboutus": "会社概要",
+    "home": "ホーム",
+    "AMLpolicy": "AMLポリシー",
+    "privacypolicy": "プライバシーポリシー",
+    "KYCpolicy": "KYCポリシー",
+    "responsiblegaming": "責任あるゲーミング",
+    "tos": "利用規約",
+    "language": "言語",
+    "text": "Flush.comはKing of Clubz B.V.が運営するブランド名です。King of Clubz B.V.はキュラソーに登録された有限責任会社であり、登記番号は161495で、登録住所はキュラソーのFransche Bloemweg 4です（以下、「会社」とします）。会社はオンラインゲームの提供を目的としてキュラソーでGaming Services Provider N.V.のライセンス（ライセンス番号365/JAZ）を取得しています。",
+    "copyright": "© 2021 Fliush.com Tous droits réservés."
+  },
+  "sidebar": {
+    "lobby": "ロビー",
+    "populargames": "Popular Games",
+    "newgames": "新しいゲーム",
+    "flushoriginals": "フラッシュオリジナル",
+    "livecasino": "ライブカジノ",
+    "featurebuyin": "Feature Buy-In",
+    "gameshows": "ゲーム番組",
+    "slots": "スロット",
+    "providers": "プロバイダー",
+    "promotions": "Promotions",
+    "livesupport": "サポート",
+    "buycrypto": "暗号を購入する"
+  }
+}

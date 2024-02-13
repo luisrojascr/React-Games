@@ -1,0 +1,68 @@
+{
+  "auth": {
+    "welcome": "Добро пожаловать",
+    "playnow": "Играть сейчас",
+    "forgotpassword": "Забыли пароль?",
+    "or": "or",
+    "back to login": "Back to Login",
+    "signup": {
+      "signup": "Регистрация",
+      "terms": "Я соглашаюсь со сбором информации в файлах cookie, я принимаю Политику конфиденциальности и Условия использования. Участие в игре не запрещено моими местными органами власти, и мне исполнилось 18 лет.",
+      "selectlanguage": "Язык",
+      "placeholder": {
+        "username": "Имя пользователя",
+        "email": "Электронная почта",
+        "password": "Пароль",
+        "confirmpassword": "Подтвердить пароль"
+      }
+    },
+    "login": {
+      "login": "Войти",
+      "placeholder": {
+        "email": "Электронная почта",
+        "password": "Пароль"
+      }
+    },
+    "forgot": {
+      "passwordrecovery": "Password Recovery",
+      "subtitle": "We will send a link to your email",
+      "send": "send",
+      "placeholder": {
+        "emailorusername": "Адрес электронной почты или имя пользователя"
+      }
+    }
+  },
+  "header": {
+    "wallet": "КОШЕЛЕК",
+    "VIP": "VIP"
+  },
+  "footer": {
+    "support": "Поддержка",
+    "provablyfair": "Доказуемо честная игра",
+    "gambleaware": "Осведомленность об азартных играх",
+    "aboutus": "О нас",
+    "home": "Главная страница",
+    "AMLpolicy": "Политика AML",
+    "privacypolicy": "Политика конфиденциальности",
+    "KYCpolicy": "Политика ключ",
+    "responsiblegaming": "Ответственная игра",
+    "tos": "Условия предоставления услуг",
+    "language": "Язык",
+    "text": "Flush.com - это товарный знак компании King of Clubz B.V., ограниченной ответственности, зарегистрированной на Кюрасао под номером регистрации компании 161495, с зарегистрированным адресом на Fransche Bloemweg 4 Кюрасао (\"Компания\"), имеющей лицензию на оказание услуг в сфере онлайн-игр от Gaming Services Provider N.V. с номером лицензии 365/JAZ на Кюрасао.",
+    "copyright": "© 2021 г., Flush.com Все права защищены."
+  },
+  "sidebar": {
+    "lobby": "Лобби",
+    "populargames": "Popular Games",
+    "newgames": "Новые Игры",
+    "flushoriginals": "Флеш-оригиналы",
+    "livecasino": "Живое Казино",
+    "featurebuyin": "Feature Buy-In",
+    "gameshows": "Игра показывает",
+    "slots": "СЛОТЫ",
+    "providers": "Провайдеры",
+    "promotions": "Promotions",
+    "livesupport": "Поддержка",
+    "buycrypto": "Купить Крипто"
+  }
+}

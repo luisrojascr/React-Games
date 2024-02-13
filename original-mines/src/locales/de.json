@@ -1,0 +1,68 @@
+{
+  "auth": {
+    "welcome": "Herzlich willkommen",
+    "playnow": "Jetzt spielen",
+    "forgotpassword": "Passwort vergessen",
+    "or": "Oder",
+    "back to login": "ZURÜCK ZUR ANMELDUNG",
+    "signup": {
+      "signup": "Registrierung",
+      "terms": "Ich stimme der Erfassung von Informationen in Cookies zu. Ich bin mit der Datenschutzerklärung und den Nutzungsbedingungen einverstanden. Das Glücksspiel ist nicht von den örtlichen Behörden verboten und ich bin mindestens 18 Jahre alt",
+      "selectlanguage": "Sprache",
+      "placeholder": {
+        "username": "Nutzername",
+        "email": "Email",
+        "password": "Passwort",
+        "confirmpassword": "Passwort bestätigen"
+      }
+    },
+    "login": {
+      "login": "Anmeldung",
+      "placeholder": {
+        "email": "Email",
+        "password": "Passwort"
+      }
+    },
+    "forgot": {
+      "passwordrecovery": "Passwort Wiederherstellung",
+      "subtitle": "Wir senden einen Link an Ihre E-Mail",
+      "send": "Senden",
+      "placeholder": {
+        "emailorusername": "Email oder Nutzername"
+      }
+    }
+  },
+  "header": {
+    "wallet": "GELDBÖRSE",
+    "VIP": "VIP"
+  },
+  "footer": {
+    "support": "support",
+    "provablyfair": "Nachweislich fair",
+    "gambleaware": "Spielen Sie bewusst",
+    "aboutus": "Über uns",
+    "home": "Startseite",
+    "AMLpolicy": "AML-Richtlinien",
+    "privacypolicy": "Datenschutzbestimmungen",
+    "KYCpolicy": "KYC-Richtlinien",
+    "responsiblegaming": "Verantwortungsbewusstes Spielen",
+    "tos": "Nutzungsbedingungen",
+    "language": "Sprache",
+    "text": "Flush.com ist eine Markenbezeichnung von King of Clubz B.V., einer Gesellschaft mit beschränkter Haftung, registriert in Curaçao unter der Firmenregistrierungsnummer 161495, mit eingetragenem Sitz in Fransche Bloemweg 4, Curaçao (\"Unternehmen\"). Das Unternehmen ist in Curaçao gemäß der Lizenznummer 365/JAZ des Gaming Services Providers N.V. lizenziert, um Online-Spiele anzubieten.Flush.com ist eine Markenbezeichnung von King of Clubz B.V., einer Gesellschaft mit beschränkter Haftung, registriert in Curaçao unter der Firmenregistrierungsnummer 161495, mit eingetragenem Sitz in Fransche Bloemweg 4, Curaçao (\"Unternehmen\"). Das Unternehmen ist in Curaçao gemäß der Lizenznummer 365/JAZ des Gaming Services Providers N.V. lizenziert, um Online-Spiele anzubieten.",
+    "copyright": "© 2021 Fliush.com Alle Rechte vorbehalten"
+  },
+  "sidebar": {
+    "lobby": "Lobby",
+    "populargames": "Beliebte Spiele",
+    "newgames": "Neue Spiele",
+    "flushoriginals": "Originale spülen",
+    "livecasino": "Live-Casino",
+    "featurebuyin": "Feature Buy-In",
+    "gameshows": "SpielShow",
+    "slots": "Slots",
+    "providers": "Anbieter",
+    "promotions": "Promotions",
+    "livesupport": "Live Support",
+    "buycrypto": "KRYPTO KAUFEN"
+  }
+}

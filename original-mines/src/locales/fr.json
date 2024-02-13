@@ -1,0 +1,68 @@
+{
+  "auth": {
+    "welcome": "Bienvenue",
+    "playnow": "Play Now",
+    "forgotpassword": "Mot de passe oublié",
+    "or": "Ou",
+    "back to login": "RETOUR CONNEXION",
+    "signup": {
+      "signup": "S'INSCRIRE",
+      "terms": "J'accepte la collecte d'informations dans les cookies, j'accepte la politique de confidentialité et les conditions d'utilisation, les jeux d'argent ne sont pas interdits par mes autorités locales et j'ai au moins 18 ans.",
+      "selectlanguage": "Langue",
+      "placeholder": {
+        "username": "Nom d'Utilisateur",
+        "email": "email",
+        "password": "Mot de passe",
+        "confirmpassword": "Confirmer le Mot de passe"
+      }
+    },
+    "login": {
+      "login": "CONNEXION",
+      "placeholder": {
+        "email": "Email",
+        "password": "Mot de passe"
+      }
+    },
+    "forgot": {
+      "passwordrecovery": "Password Recovery",
+      "subtitle": "Nous vous enverrons un lien sur votre e-mail",
+      "send": "Envoyer",
+      "placeholder": {
+        "emailorusername": "E-mail ou Nom d'Utilisateur"
+      }
+    }
+  },
+  "header": {
+    "wallet": "PORTE MONNAIE",
+    "VIP": "VIP"
+  },
+  "footer": {
+    "support": "support",
+    "provablyfair": "Equitabilité prouvée",
+    "gambleaware": "Gamble Aware",
+    "aboutus": "À propos",
+    "home": "Accueil",
+    "AMLpolicy": "Police AML",
+    "privacypolicy": "Politique de confidentialité",
+    "KYCpolicy": "Police KYC",
+    "responsiblegaming": "Jeu responsable",
+    "tos": "Conditions d'utilisation",
+    "language": "Langue",
+    "text": "Flush est une marque de King Clubz B.V., une société à responsabilité limitée enregistrée au Curaçao sous le numéro 161495, enregistrée à l'adresse Fransche Bloemweg 4 Curacao ('Company'), ayant une license au Curaçao sous Gaming Services Provider N.V. licence # 365/JAZ pour fournir des jeux en ligne.",
+    "copyright": "© 2021 Fliush.com Tous droits réservés."
+  },
+  "sidebar": {
+    "lobby": "Accueil",
+    "populargames": "Jeux en vedette",
+    "newgames": "Nouveaux Jeux",
+    "flushoriginals": "Originaux Flush",
+    "livecasino": "Casino En Direct",
+    "featurebuyin": "Fonction d'achat",
+    "gameshows": "Jeux Télévisés",
+    "slots": "Slots",
+    "providers": "Fournisseurs",
+    "promotions": "Promotions",
+    "livesupport": "Support",
+    "buycrypto": "Acheter Crypto"
+  }
+}

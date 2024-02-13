@@ -1,0 +1,106 @@
+{
+  "auth": {
+    "welcome": "Welcome",
+    "playnow": "Play Now",
+    "forgotpassword": "Forgot Password?",
+    "or": "or",
+    "back to login": "Back to Login",
+    "signup": {
+      "signup": "Sign Up",
+      "terms": "I agree to the collection of information in cookies, I agree with Privacy Policy and with Terms of use, Gambling isn't forbidden by my local authorities and I'm at least 18 years old.",
+      "selectlanguage": "Select Language",
+      "placeholder": {
+        "username": "username",
+        "email": "email",
+        "password": "Password",
+        "confirmpassword": "Confirm Password"
+      }
+    },
+    "login": {
+      "login": "Log In",
+      "placeholder": {
+        "email": "Email",
+        "password": "Password"
+      }
+    },
+    "forgot": {
+      "passwordrecovery": "Password Recovery",
+      "subtitle": "We will send a link to your email",
+      "send": "send",
+      "placeholder": {
+        "emailorusername": "Email or Username"
+      }
+    }
+  },
+  "header": {
+    "wallet": "wallet",
+    "VIP": "VIP"
+  },
+  "footer": {
+    "support": "support",
+    "provablyfair": "Provably Fair",
+    "gambleaware": "Gamble Aware",
+    "aboutus": "About Us",
+    "home": "Home",
+    "AMLpolicy": "AML Policy",
+    "privacypolicy": "Privacy Policy",
+    "KYCpolicy": "KYC Policy",
+    "responsiblegaming": "Responsible Gaming",
+    "tos": "Terms of Service",
+    "language": "Language",
+    "text": "Flush.com is a brand name of Clubz Entertainment Group Ltd. , Reg No 175805,, having its registered address at 123 Barrack Rd., Belize City, Belize, licensed to conduct online gaming operations by the Government of Curacao under license 365 /JAZ, Gaming Curaçao, 7 Abraham de Veerstraat, PO Box 840, Willemstad, Curaçao. 18+ to play",
+    "copyright": "© 2021 Fliush.com All rights reserved."
+  },
+  "sidebar": {
+    "lobby": "Lobby",
+    "populargames": "Popular Games",
+    "newgames": "New Games",
+    "flushoriginals": "Flush Originals",
+    "livecasino": "Live Casino",
+    "featurebuyin": "Feature Buy-In",
+    "gameshows": "Game Shows",
+    "slots": "Slots",
+    "providers": "Providers",
+    "promotions": "Promotions",
+    "livesupport": "Live Support",
+    "buycrypto": "Buy Crypto"
+  },
+  "Dice Game": "Dice Game",
+  "ROLL": "ROLL",
+  "OVER": "OVER",
+  "UNDER": "UNDER",
+  "Manual": "Manual",
+  "Auto": "Auto",
+  "Skip": "Skip",
+  "TARGET MULTIPLIER": "TARGET MULTIPLIER",
+  "Reset": "Reset",
+  "Bet Amount": "Bet Amount",
+  "Profit On Win": "Profit On Win",
+  "BET": "BET",
+  "Rollover": "Rollover",
+  "Win Chance": "Win Chance",
+  "Number Of Bets": "Number Of Bets",
+  "On Win": "On Win",
+  "On Loss": "On Loss",
+  "Increase By": "Increase By",
+  "Decrease By": "Decrease By",
+  "Stop On Profit": "Stop On Profit",
+  "Stop On Loss": "Stop On Loss",
+  "Start Autobet": "Start Autobet",
+  "Crash Game": "Crash Game",
+  "Cashout At": "Cashout At",
+  "Total Payout": "Total Payout",
+  "(Next Round)": "(Next Round)",
+  "Mines Game": "Mines Game",
+  "Wheel Game": "Wheel Game",
+  "Risk": "Risk",
+  "Segments": "Segments",
+  "Number of Bets": "Number of Bets",
+  "Settings": "Settings",
+  "Sound": "Sound",
+  "Games Sidebar": "Games Sidebar",
+  "Provably Fair": "Provably Fair",
+  "Stop Autobet": "Stop Autobet",
+  "Next Tile Profit": "Next Tile Profit",
+  "Cashout": "Cashout"
+}
